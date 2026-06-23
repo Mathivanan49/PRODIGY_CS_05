@@ -40,7 +40,7 @@ Payload: GET / HTTP/1.1
 Applications
 Network monitoring
 Learning network protocols
-Troubleshooting connectivity issues
+Troubleshooting connectivity issuess
 Educational cybersecurity labs
 Traffic analysis
 Ethical Consideration
